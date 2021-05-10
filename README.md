@@ -45,6 +45,7 @@ Lorel Ipsem
 ##### About ShowerThoughts 1M Submissions
 
 ![](https://styles.redditmedia.com/t5_2szyo/styles/communityIcon_x3ag97t82z251.png?width=256&s=33531dceba6466953aadef3073f36cfc2e267175)
+
 "[ShowerThoughts](https://www.reddit.com/r/Showerthoughts/) is a subreddit for sharing those miniature epiphanies you have that highlight the oddities within the familiar."
 This dataset contains the data of latest 1M+ submissions on this subreddit till 5th September 2020.
 
@@ -55,7 +56,7 @@ Contains 77 attributes and 1M rows of all the submissions.
 
 ##### Acknowledgements
 
-![Pushshift API](https://avatars0.githubusercontent.com/u/12604285?s=400&u=6ce0ec26f27b53cc0286f0c3040e263e34eb9e48&v=4 =125x125)
+[Pushshift API](https://avatars0.githubusercontent.com/u/12604285?s=400&u=6ce0ec26f27b53cc0286f0c3040e263e34eb9e48&v=4 =125x125)
 
 I owe this dataset to amazing work done by Pushshift API. Reddit's official API only permits scraping 100 entries, but thanks to Pushshift API, scraping bulk data is now possible.
 
