@@ -56,7 +56,7 @@ Contains 77 attributes and 1M rows of all the submissions.
 
 ##### Acknowledgements
 
-[Pushshift API](https://avatars0.githubusercontent.com/u/12604285?s=400&u=6ce0ec26f27b53cc0286f0c3040e263e34eb9e48&v=4 =125x125)
+![Pushshift API](https://avatars0.githubusercontent.com/u/12604285?s=400&u=6ce0ec26f27b53cc0286f0c3040e263e34eb9e48&v=4=125x125)
 
 I owe this dataset to amazing work done by Pushshift API. Reddit's official API only permits scraping 100 entries, but thanks to Pushshift API, scraping bulk data is now possible.
 
