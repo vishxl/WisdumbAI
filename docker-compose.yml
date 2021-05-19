@@ -1,0 +1,25 @@
+version: "3"
+
+services:  
+    backend:
+        build:
+            context: .
+            dockerfile: backend.Dockerfile
+        container_name: wisdumb_backend
+        ports: 
+            - 51324:51324
+        volumes:
+            - ./app/:/usr/src/app
+        restart: on-failure
+
+    client:
+        build:
+            context: .
+            dockerfile: client.Dockerfile
+        container_name: wisdumb_client
+        ports: 
+            - 56789:56789
+        volumes:
+            - ./app/:/usr/src/app
+        restart: on-failure
+    
