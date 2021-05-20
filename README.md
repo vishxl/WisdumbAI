@@ -94,11 +94,9 @@ python app.py
 
 ## 🗒️ To Do
 
-- [ ] Deploying the Web Application on Cloud.
-- [ ] Development of an architecture using Pre-Trained Model like VGG16.
-- [ ] Implementing the Model in PyTorch.
-- [ ] Enhance the User-Interface using HTML/CSS.
-- [ ] Set the Application on Docker.
+- [ ] Update Demo
+- [ ] Create Web Interface
+- [x] Containerize the app
 
 ## ⚖️ LICENSE
 
