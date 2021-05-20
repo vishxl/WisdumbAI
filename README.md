@@ -35,11 +35,11 @@ some text [Reddit](https://www.reddit.com/r/showerthoughts) some text.
 
 ## 📌 Purpose
 
-Lorel Ipsem
+To-Do
 
-Lorel Ipsem
+To-Do
 
-Lorel Ipsem
+To-Do
 
 ## 📊 Data
 ##### About ShowerThoughts 1M Submissions
@@ -62,11 +62,9 @@ I owe this dataset to amazing work done by Pushshift API. Reddit's official API 
 
 ## ⚒️ Technology Stack
 
-* [FastAPI](https://github.com/pallets/flask)
-* [HTML](https://www.w3.org/TR/html52/)
-* [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-* [Bootstrap](https://getbootstrap.com/)
-* [PyTorch](https://www.tensorflow.org/)
+* [FastAPI ⚡](https://github.com/pallets/flask)
+* [Huggingface 🤗](https://huggingface.co)
+* [PyTorch 🔥](https://pytorch.org/)
 
 ## 💻 Local Installation
 
