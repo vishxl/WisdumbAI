@@ -31,7 +31,7 @@
 
 ## 💬 About
 
-some text [Reddit](https://www.reddit.com/r/showerthoughts) some text.
+To-Do [Reddit](https://www.reddit.com/r/showerthoughts) To-Do.
 
 ## 📌 Purpose
 
@@ -62,7 +62,7 @@ I owe this dataset to amazing work done by Pushshift API. Reddit's official API 
 
 ## ⚒️ Technology Stack
 
-* [FastAPI ⚡](https://github.com/pallets/flask)
+* [FastAPI ⚡](https://fastapi.tiangolo.com/)
 * [Huggingface 🤗](https://huggingface.co)
 * [PyTorch 🔥](https://pytorch.org/)
 
