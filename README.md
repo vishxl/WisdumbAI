@@ -42,7 +42,7 @@ To-Do
 To-Do
 
 ## 📊 Data
-##### About ShowerThoughts 1M Submissions
+##### ShowerThoughts 1M Submissions
 
 ![](https://styles.redditmedia.com/t5_2szyo/styles/communityIcon_x3ag97t82z251.png?width=256&s=33531dceba6466953aadef3073f36cfc2e267175)
 
@@ -59,6 +59,10 @@ Contains 77 attributes and 1M rows of all the submissions.
 <img src="https://i.imgur.com/PCbnxYx.png" alt="Logo" width="150" height="150">
 
 I owe this dataset to amazing work done by Pushshift API. Reddit's official API only permits scraping 100 entries, but thanks to Pushshift API, scraping bulk data is now possible.
+  
+##### Tweet Data
+  
+Enlightening tweets from accounts like [Naval](https://twitter.com/naval), [Elon Musk](https://twitter.com/elonmusk) and [TheStoicEmperor](https://twitter.com/TheStoicEmperor)
 
 ## ⚒️ Technology Stack
 
