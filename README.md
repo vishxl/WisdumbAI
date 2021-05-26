@@ -64,8 +64,7 @@ I owe this dataset to amazing work done by Pushshift API. Reddit's official API 
   
 Enlightening tweets from accounts like [Naval](https://twitter.com/naval), [Elon Musk](https://twitter.com/elonmusk) and [TheStoicEmperor](https://twitter.com/TheStoicEmperor)
   
-#### Download
-[kaggle](https://www.kaggle.com/vishxl/datasets)
+##### 📥 [Download](https://www.kaggle.com/vishxl/datasets)
 
 ## ⚒️ Technology Stack
 
