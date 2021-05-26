@@ -42,7 +42,7 @@ To-Do
 To-Do
 
 ## 📊 Data
-##### ShowerThoughts 1M Submissions
+#### ShowerThoughts 1M Submissions
 
 ![](https://styles.redditmedia.com/t5_2szyo/styles/communityIcon_x3ag97t82z251.png?width=256&s=33531dceba6466953aadef3073f36cfc2e267175)
 
@@ -60,9 +60,12 @@ Contains 77 attributes and 1M rows of all the submissions.
 
 I owe this dataset to amazing work done by Pushshift API. Reddit's official API only permits scraping 100 entries, but thanks to Pushshift API, scraping bulk data is now possible.
   
-##### Tweet Data
+#### Tweet Data
   
 Enlightening tweets from accounts like [Naval](https://twitter.com/naval), [Elon Musk](https://twitter.com/elonmusk) and [TheStoicEmperor](https://twitter.com/TheStoicEmperor)
+  
+#### Download
+[kaggle](https://www.kaggle.com/vishxl/datasets)
 
 ## ⚒️ Technology Stack
 
@@ -93,6 +96,17 @@ python app.py
 
 ## 🐦 Demo Bot
 🔗 [WisdumbAI Bot](https://twitter.com/WisdumbAI)
+  
+  ```
+⚪   >>> What If
+🟣   >>> What If The Reason None Of The Characters Of The Simpsons Is The Matrix
+
+⚪   >>> You Are
+🟣   >>> You Are Probably A Infinte Blanket Of A Car Isnt A Dumb Member Of A Speaker Playing Someones Voice
+
+⚪   >>> Culture
+🟣   >>> Culture Is Just A Irl Ragequit
+```
 
 ## 🗒️ To Do
 
